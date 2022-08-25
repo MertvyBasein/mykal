@@ -6,7 +6,7 @@
 		"interface": {
 			"tabs": {
 				"missions": {
-					"name": "Миссии",
+					"name": "Задание",
 					"stats": {
 						"accomplished": "Выполнено",
 						"discarded": "Отменено",
@@ -15,14 +15,14 @@
 					},
 					"card": {
 						"contextMenu": {
-							"watch": "Следить за миссией",
+							"watch": "Смотреть задание",
 							"unwatch": "Выйти из просмотра",
-							"discard": "Отмена миссии"
+							"discard": "Отменить задание"
 						},
 						"statusTypes": {
 							"accomplished": "ВЫПОЛНЕНО",
 							"discarded": "ОТКЛОНЕНО",
-							"system": "УДАЛЕНО СИСТЕМОЙ"
+							"system": "УДАЛЕНО"
 						},
 						"missed": "Пропущенно"
 					}
